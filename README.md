@@ -1,1 +1,3 @@
-# OpenGL_C- Learning OPENGL by following https://learnopengl.com/Introduction and The Cherno on Youtube
+# OpenGL_C++- 
+
+Learning OpenGL by following https://learnopengl.com/Introduction and The Cherno on Youtube
